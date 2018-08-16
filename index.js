@@ -1,8 +1,9 @@
 function theBeatlesPlay (musicians, instruments) {
-  for (let i = 0; i < 4; i++)
-  return (musicians[i] + "plays" + instruments[i]);
+  var arr = []
+  for (let i = 0; i < 4; i++){
+  arr.push (musicians[i] + "plays" + instruments[i]);}
+  return arr
 }
-
  function johnLennonFacts (facts){
  } 
  function iLoveTheBeatles(){
