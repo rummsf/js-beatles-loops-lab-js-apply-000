@@ -8,7 +8,8 @@ function theBeatlesPlay (musicians, instruments) {
    var arr = []
    let i = 0
    while (i < facts.length){
-   arr.push (facts[i] + "!!!"; i++)
+   arr.push (facts[i] + "!!!")
+   i++
    }
    return arr 
  }
