@@ -21,4 +21,5 @@ function theBeatlesPlay (musicians, instruments) {
      number++
  }
    while (number < 17)
+   return arr
  }
