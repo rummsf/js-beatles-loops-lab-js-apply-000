@@ -20,6 +20,6 @@ function theBeatlesPlay (musicians, instruments) {
      arr.push ("I love the Beatles!")
      number++
  }
-   while (number < 17)
+   while (number < 15)
    return arr
  }
