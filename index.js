@@ -14,5 +14,10 @@ function theBeatlesPlay (musicians, instruments) {
    return arr 
  }
  
- function iLoveTheBeatles(){
+ function iLoveTheBeatles(number){
+   var arr = []
+   do { 
+   while (number < 15){
+   arr.push ("I love the Beatles!") 
+ }
  }
