@@ -9,7 +9,8 @@ function theBeatlesPlay (musicians, instruments) {
    let i = 0
    while (i < facts.length){
    arr.push (facts[i] + "!!!")
-   return arr} 
+   }
+   return arr 
  }
  
  function iLoveTheBeatles(){
