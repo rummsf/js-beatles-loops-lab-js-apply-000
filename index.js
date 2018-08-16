@@ -5,6 +5,8 @@ function theBeatlesPlay (musicians, instruments) {
   return arr
 }
  function johnLennonFacts (facts){
+   var arr = []
+   for (let i = )
  } 
  function iLoveTheBeatles(){
  }
